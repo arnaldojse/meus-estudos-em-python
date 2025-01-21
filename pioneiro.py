@@ -6,7 +6,7 @@ def ler_numero(prompt):
         except ValueError:
             print("Erro: entrada não é um número.")
 
-maça = ler_numero("informe quantas maças foram vendidadas : ")
+maça = ler_numero("quantas maças foram vendidadas : ")
 banana = ler_numero("quantas bananas foram vendidas : ")
 
 if banana > maça :

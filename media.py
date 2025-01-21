@@ -15,4 +15,4 @@ elif media >= 9:
     print("QUE ISSO AMIGO, deixa o professor brincar também ")
 
 else:
-    print("Calma na proxima você consegue ")      
+    print("Calma, na proxima você consegue ")      

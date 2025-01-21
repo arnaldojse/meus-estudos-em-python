@@ -9,4 +9,5 @@ livros = [
 for livro in livros:
     if livro["estoque"] == 0:
         continue
-    print("Livro disponível: {}".format(livro['nome']))
+    
+print("Livro disponível: {}".format(livro['nome']))

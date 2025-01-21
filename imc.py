@@ -9,4 +9,4 @@ if imc < 18.5 :
     print ("abaixo do peso")
 
 else:
-    print ("avima do peso")
+    print ("acima do peso")
